@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(flutter_livestream LANGUAGES CXX)
+project(flutter_app LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_livestream")
+set(BINARY_NAME "flutter_app")
 
 cmake_policy(SET CMP0063 NEW)
 

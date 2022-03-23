@@ -1,4 +1,4 @@
-package in.codingloop.flutter_livestream;
+package in.codingloop.flutter_app;
 
 import io.flutter.embedding.android.FlutterActivity;
 
